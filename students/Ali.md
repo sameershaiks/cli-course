@@ -5,5 +5,6 @@
  - Skills: HTML,CSS,JavaScript,JAVA,  WordPress, Corel draw etc etc..
 
 ```
-Currently Learning Github Concepts 
+Currently Learning Github Concepts
+- some changes had been added
 ```
