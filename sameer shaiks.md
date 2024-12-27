@@ -38,4 +38,3 @@ and {then its
 ```
 
  code to show the word to bold are 2 **stars** and for [*underline*] italic sentence
-
