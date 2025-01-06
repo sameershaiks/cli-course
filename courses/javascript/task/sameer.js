@@ -10,3 +10,5 @@ var fullname  =  "{shaik  sameer}";
 
  console.log (fullname);
  console.log (skills);
+
+ console.log(firstname);
